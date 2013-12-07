@@ -1,7 +1,7 @@
 Summary:	CSS based layouting framework
 Name:		liblayout
 Version:	0.2.10
-Release:	3
+Release:	4
 License:	LGPLv2+
 Group:		System/Libraries 
 Url:		http://reporting.pentaho.org/

@@ -1,6 +1,6 @@
 Name: liblayout
 Version: 0.2.10
-Release: 10
+Release: 11
 Summary: CSS based layouting framework
 License: LGPLv2+ and UCD
 

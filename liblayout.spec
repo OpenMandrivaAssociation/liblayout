@@ -5,7 +5,7 @@ Summary: CSS based layouting framework
 License: LGPLv2+ and UCD
 
 Source0: http://downloads.sourceforge.net/jfreereport/liblayout-%{version}.zip
-URL: http://reporting.pentaho.org/
+URL: https://reporting.pentaho.org/
 BuildRequires: ant, java-devel, jpackage-utils, flute, libloader
 BuildRequires: librepository, pentaho-libxml, libfonts, sac, libbase >= 1.1.3
 # We must build this with JDK <= 12.0 because it's used by
